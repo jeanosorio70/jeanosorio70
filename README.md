@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Paul%20Osorio-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeanpaulosoriobenitez/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]
-[![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)]
+[![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge)]
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)]
 [![R](https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r)]
 </div>
