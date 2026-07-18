@@ -75,9 +75,13 @@ Me especializo en:
 # 📌 Actualmente
 
 🔹 Construyendo soluciones de IA para empresas.
+
 🔹 Automatizando procesos de negocio.
+
 🔹 Creando dashboards ejecutivos en Power BI.
+
 🔹 Explorando Microsoft Fabric y Copilot.
+
 🔹 Desarrollando proyectos de Machine Learning.
 
 ---
