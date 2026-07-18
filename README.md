@@ -74,7 +74,9 @@ Me especializo en:
 
 # 📌 Actualmente
 
-🔹 Construyendo soluciones de IA para empresas.
+🔹 Liderando la transformación digital en empresas del sector salud.
+
+🔹 Implementando soluciones de IA para empresas.
 
 🔹 Automatizando procesos de negocio.
 
