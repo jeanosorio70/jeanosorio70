@@ -14,6 +14,7 @@
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)]
 [![R](https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r)]
 [![Networking](https://img.shields.io/badge/Networking-Expert-00599C?style=for-the-badge&logo=cisco&logoColor=white)]
+[![VoIP](https://img.shields.io/badge/VoIP-Expert-009688?style=for-the-badge&logo=asterisk&logoColor=white)]
 </div>
 
 ---
