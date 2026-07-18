@@ -90,15 +90,6 @@ Me especializo en:
 🔹 Desarrollando proyectos de Machine Learning.
 
 ---
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Contacto
 
