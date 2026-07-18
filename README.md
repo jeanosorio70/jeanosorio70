@@ -1,9 +1,7 @@
 <div align="center">
 
 # 👋 Hola, soy Jean Paul Osorio Benítez
-
 ### Director de Información y Tecnología (CTO) | Data & BI Specialist | AI Enthusiast | Power BI Expert
-
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=900&lines=Business+Intelligence+%7C+Data+Analytics;Power+BI+%7C+DAX+%7C+SQL+%7C+Excel;Python+%7C+R+%7C+Automation+%7C+AI;Turning+Data+into+Business+Decisions" />
 </p>
@@ -13,14 +11,13 @@
 [![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)]
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)]
 [![R](https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r)]
-
 </div>
 
 ---
 
 # 🚀 Sobre mí
 
-Soy **Ingeniero de Sistemas** y actualmente me desempeño como **Director de Información y Tecnología (CTO)**, liderando iniciativas de transformación digital, analítica avanzada y automatización de procesos.
+Soy **Ingeniero de Sistemas** con **Maestría en Inteligencia de Negocios**, actualmente me desempeño como **Director de Información y Tecnología (CTO)**, liderando iniciativas de transformación digital, analítica avanzada y automatización de procesos.
 
 Mi pasión es convertir datos en decisiones estratégicas mediante soluciones de Business Intelligence, Inteligencia Artificial y automatización empresarial.
 
@@ -46,9 +43,7 @@ Me especializo en:
 # 💼 Tecnologías
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode"/>
-
 </p>
 
 | BI | Data | Automation |
@@ -80,13 +75,9 @@ Me especializo en:
 # 📌 Actualmente
 
 🔹 Construyendo soluciones de IA para empresas.
-
 🔹 Automatizando procesos de negocio.
-
 🔹 Creando dashboards ejecutivos en Power BI.
-
 🔹 Explorando Microsoft Fabric y Copilot.
-
 🔹 Desarrollando proyectos de Machine Learning.
 
 ---
@@ -94,7 +85,6 @@ Me especializo en:
 # 📫 Contacto
 
 <p align="center">
-
 <a href="mailto:jeanosorio70@gmail.com">
 <img src="https://img.shields.io/badge/Email-jeanosorio70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -102,14 +92,11 @@ Me especializo en:
 <a href="https://www.linkedin.com/in/jeanpaulosoriobenitez/">
 <img src="https://img.shields.io/badge/LinkedIn-Jean%20Paul%20Osorio-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 </p>
+
 ---
 
 <div align="center">
-
 ### "Transforming Data into Strategic Decisions"
-
 ⭐ Thanks for visiting my profile!
-
 </div>
