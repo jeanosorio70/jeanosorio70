@@ -98,7 +98,7 @@ Me especializo en:
 
 <div align="center">
   
-# **"Transforming Data into Strategic Decisions"**
+## **"Transforming Data into Strategic Decisions"**
 
 ⭐ **Thanks for visiting my profile!**
 
