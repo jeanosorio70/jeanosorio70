@@ -6,11 +6,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=900&lines=Business+Intelligence+%7C+Data+Analytics;Power+BI+%7C+DAX+%7C+SQL+%7C+Excel;Python+%7C+R+%7C+Automation+%7C+AI;Turning+Data+into+Business+Decisions" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Paul%20Osorio-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeanpaulosoriobenitez/)
+
 [![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]
+[![DAX](https://img.shields.io/badge/DAX-Expert-6C63FF?style=for-the-badge)]
+[![Excel](https://img.shields.io/badge/Excel-Intermediate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge)]
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)]
 [![R](https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r)]
+[![Networking](https://img.shields.io/badge/Networking-Expert-00599C?style=for-the-badge&logo=cisco&logoColor=white)]
 </div>
 
 ---
