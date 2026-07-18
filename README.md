@@ -1,16 +1,130 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jeanosorio70/jeanosorio70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Jean Paul Osorio Benítez
 
-Here are some ideas to get you started:
+### Director de Información y Tecnología (CTO) | Data & BI Specialist | AI Enthusiast | Power BI Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=900&lines=Business+Intelligence+%7C+Data+Analytics;Power+BI+%7C+DAX+%7C+SQL+%7C+Excel;Python+%7C+R+%7C+Automation+%7C+AI;Turning+Data+into+Business+Decisions" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Paul%20Osorio-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeanpaulosoriobenitez/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]
+[![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)]
+[![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)]
+[![R](https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r)]
+
+</div>
+
+---
+
+# 🚀 Sobre mí
+
+Soy **Ingeniero de Sistemas** y actualmente me desempeño como **Director de Información y Tecnología (CTO)**, liderando iniciativas de transformación digital, analítica avanzada y automatización de procesos.
+
+Mi pasión es convertir datos en decisiones estratégicas mediante soluciones de Business Intelligence, Inteligencia Artificial y automatización empresarial.
+
+Me especializo en:
+
+- 📊 Business Intelligence
+- 📈 Power BI
+- 📉 Data Analytics
+- 🧠 Inteligencia Artificial aplicada
+- 🤖 Automatización de procesos
+- 🗄️ SQL
+- 📋 Excel Avanzado
+- 📐 DAX
+- ⚙️ Power Query (M)
+- 🐍 Python
+- 📊 R
+- ☁️ Microsoft Fabric
+- 📊 Data Visualization
+- 📖 Data Storytelling
+
+---
+
+# 💼 Tecnologías
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode"/>
+
+</p>
+
+| BI | Data | Automation |
+|-----|------|------------|
+| Power BI | SQL | Power Automate |
+| DAX | Python | AI |
+| Power Query | R | APIs |
+| Excel | Fabric | ChatGPT |
+
+---
+
+# 📊 Áreas de experiencia
+
+- Business Intelligence
+- Data Analytics
+- Data Visualization
+- KPIs
+- Dashboards Ejecutivos
+- Predictive Analytics
+- Data Modeling
+- ETL
+- Machine Learning
+- AI for Business
+- Healthcare Analytics
+- Process Automation
+
+---
+
+# 📌 Actualmente
+
+🔹 Construyendo soluciones de IA para empresas.
+
+🔹 Automatizando procesos de negocio.
+
+🔹 Creando dashboards ejecutivos en Power BI.
+
+🔹 Explorando Microsoft Fabric y Copilot.
+
+🔹 Desarrollando proyectos de Machine Learning.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/jeanpaulosoriobenitez/
+
+---
+
+<div align="center">
+
+### "Transforming Data into Strategic Decisions"
+
+⭐ Thanks for visiting my profile!
+
+</div>
