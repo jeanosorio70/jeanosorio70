@@ -93,10 +93,17 @@ Me especializo en:
 
 # 📫 Contacto
 
-💼 LinkedIn
+<p align="center">
 
-https://www.linkedin.com/in/jeanpaulosoriobenitez/
+<a href="mailto:jeanosorio70@gmail.com">
+<img src="https://img.shields.io/badge/Email-jeanosorio70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/jeanpaulosoriobenitez/">
+<img src="https://img.shields.io/badge/LinkedIn-Jean%20Paul%20Osorio-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 ---
 
 <div align="center">
